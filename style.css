@@ -44,7 +44,7 @@ h2, h3 {
   transition-duration: 2s, 1s;
 }
 
-.menu-item a:link,a:hover,a:visited,a:active {
+.menu-item a:visited a:hover a:active a:link {
   color: white;
   text-decoration: none;
 }
@@ -100,7 +100,6 @@ button {
   background-color: dodgerblue;
   color: white;
   width: 5rem;
-  height: 2rem;
-  
+  height: 2rem; 
   
 }
